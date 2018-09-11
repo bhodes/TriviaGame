@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url(http://blog.americanflags.com/wp-content/uploads/2017/08/Flag-of-the-USA.jpg)
+}
+
+.display-4{
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.lead{
+    color: white;
+    text-shadow: 2px 2px black;
+}

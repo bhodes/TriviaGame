@@ -1,13 +1,38 @@
-.jumbotron{
-    background-image: url(http://blog.americanflags.com/wp-content/uploads/2017/08/Flag-of-the-USA.jpg)
+h1{
+   font-size: 100px;
+   color:navy;
+   text-shadow: 2px 2px red;
 }
 
-.display-4{
-    color: white;
-    text-shadow: 2px 2px black;
+#wrapper {
+    text-align: center;
+    padding: 5% 0;
+    width:960px;
+    margin:5% auto;
+    box-sizing: border-box;
+    min-height: 80%;
+    background-color:white
 }
 
-.lead{
-    color: white;
-    text-shadow: 2px 2px black;
+#start {
+    width: 300px;
+    height: 100px;
+    font-size: 75px
 }
+html,body {
+    height: 100%;
+    background-image: url("https://ladylibertyflag.com/wp-content/uploads/2014/02/US-Flag-Large.jpg")
+}
+h2{
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#quiz-area h2{
+    margin-top: 50px;
+  }
